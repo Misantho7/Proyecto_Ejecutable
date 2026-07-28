@@ -4,7 +4,7 @@
 
 Este repositorio contiene el acceso al prototipo de alta fidelidad del proyecto **SGCV-IA (Sistema de Gestión para Clínicas Veterinarias con Inteligencia Artificial)**.
 
-El prototipo fue desarrollado utilizando **Figma Make**, con el propósito de representar visualmente la interfaz del sistema, el flujo de navegación entre módulos y la interacción de los usuarios con las funcionalidades principales. :contentReference[oaicite:0]{index=0}
+El prototipo fue desarrollado utilizando **Figma Make**, con el propósito de representar visualmente la interfaz del sistema, el flujo de navegación entre módulos y la interacción de los usuarios con las funcionalidades principales.
 
 ## Objetivo
 
